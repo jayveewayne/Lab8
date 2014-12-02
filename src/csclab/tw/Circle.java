@@ -12,7 +12,7 @@ public class Circle extends Shape {
 	public double getArea() {
 		
 		// TODO Auto-generated method stub
-		return this.radius*this.radius*3.14;;
+		return this.radius*this.radius*3.14;
 	}
 
 }
